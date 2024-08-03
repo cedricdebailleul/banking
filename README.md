@@ -1,5 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Tech Stack
+
+- Next.js
+- Tailwind CSS
+- TypeScript
+- Shadcn UI
+
+## Features
+
+- Authentication
+- User Profile
+
+## Tutorial de JSMastery
+
+this project step by step with our detailed tutorial on [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos) YouTube.
+
 ## Getting Started
 
 First, run the development server:
